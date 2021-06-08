@@ -11,7 +11,7 @@ of a facebook post using science backed formulas.
 3. implementing bag of word (BOW) classifier
 4. Scrapping data for training the model
 5. using dir and glob to read files
-##how to use 
+## how to use 
 1. you need python 3.7+
 2. jupyter notebook reader (i suggest using Vs code for this)
 3. run all nodes 
